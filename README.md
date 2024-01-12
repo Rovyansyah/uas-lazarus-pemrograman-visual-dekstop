@@ -39,4 +39,3 @@ Deskripsi proyek aplikasi data barang menggunakan Lazarus dapat mencakup beberap
 10. Pemeliharaan dan Pembaruan: Merancang sistem yang memudahkan pemeliharaan aplikasi, termasuk pembaruan perangkat lunak dan penanganan kesalahan.
 
 Pastikan untuk merinci kebutuhan khusus, seperti integrasi dengan perangkat keras tertentu atau sistem keuangan, yang mungkin diperlukan dalam konteks aplikasi data barang ini.
-link youtube : https://youtu.be/Vn12qfqyWYY?si=CtS1hWnP_83YkFge
