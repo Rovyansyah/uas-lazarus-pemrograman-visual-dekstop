@@ -2,6 +2,7 @@
 
 TUGAS PROJECT PEMROGRAMAN VISUAL (DESKTOP)
 
+![20240112_063400](https://github.com/Rovyansyah/uas-lazarus-pemrograman-visual-dekstop/assets/123465931/4edd46c7-b536-4d07-8060-6dbc7737c166)
 https://github.com/Rovyansyah/uas-lazarus-pemrograman-visual-dekstop/issues/1#issue-2077924496
 
 link youtube : https://youtu.be/Vn12qfqyWYY?si=FkP59ud156Itbomd
