@@ -2,7 +2,8 @@
 
 TUGAS PROJECT PEMROGRAMAN VISUAL (DESKTOP)
 
-![Uploading 20240112_063400.jpg…]()
+https://github.com/Rovyansyah/uas-lazarus-pemrograman-visual-dekstop/issues/1#issue-2077924496
+
 link youtube : https://youtu.be/Vn12qfqyWYY?si=FkP59ud156Itbomd
 
 Rovyansyah Mulia Pratama | 312110603
