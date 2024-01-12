@@ -2,6 +2,7 @@
 
 TUGAS PROJECT PEMROGRAMAN VISUAL (DESKTOP)
 
+![Uploading 20240112_063400.jpg…]()
 link youtube : https://youtu.be/Vn12qfqyWYY?si=FkP59ud156Itbomd
 
 Rovyansyah Mulia Pratama | 312110603
